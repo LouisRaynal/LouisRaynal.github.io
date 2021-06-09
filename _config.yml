@@ -1,2 +1,3 @@
 	name: Louis Raynal, statistician
 	markdown: kramdown
+	permaling: /blog/:year/:month/:day/:title

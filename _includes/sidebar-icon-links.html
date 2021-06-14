@@ -12,12 +12,31 @@
     </a>
   {% endif %}
 
+  {% if site.linkedinurl %}
+    <a id="linkedin-link"
+       class="icon" title="LinkedIn" aria-label="LinkedIn"
+       href="{{ site.linkedinurl }}">
+      {% include svg/linkedin.svg %}
+    </a>
+  {% endif %}
+
+  {% if site.githuburl %}
+    <a id="github-link"
+       class="icon" title="Github" aria-label="Github"
+       href="{{ site.githuburl }}">
+      {% include svg/github.svg %}
+    </a>
+  {% endif %}
+
+  {% comment %}
   <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
      href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
     {% include svg/feed.svg %}
   </a>
-
+  {% endcomment %}
+  
+  {% comment %}
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
   {% endcomment %}
@@ -30,6 +49,7 @@
       {% assign search_page = node %}
     {% endif %}
   {% endfor %}
+  {% endcomment %}
 
   {% if tags_page %}
     <a id="tags-link"
@@ -47,6 +67,14 @@
        href="{{ search_page.url | relative_url }}">
       {% include svg/search.svg %}
     </a>
+  {% endif %}
+  
+  {% if site.email %}
+     <a id="email"
+        class="icon" title="{{ site.email }}" aria-label="{{ site.email }}"
+        href="mailto: {{ site.email }}">
+        {% include svg/email.svg %}
+      </a>
   {% endif %}
 
   {% include custom-icon-links.html %}

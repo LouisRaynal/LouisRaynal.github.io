@@ -5,8 +5,11 @@ highlighter:      rouge
 # Setup
 title:            Louis Raynal
 tagline:          'Statistican'
-description:      'Statistician, researcher, programming enthusiast'
+description:      'Statistician, researcher, data analyst'
 url:              https://LouisRaynal.github.io
+githuburl:        https://github.com/LouisRaynal
+linkedinurl:      https://www.linkedin.com/in/louisraynal
+email:            louis.raynal.pritchard@gmail.com
 baseurl:          '/LouisRaynal'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

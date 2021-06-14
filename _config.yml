@@ -5,12 +5,13 @@ highlighter:      rouge
 # Setup
 title:            Louis Raynal
 tagline:          'Statistican'
-description:      'Statistician, researcher, data analyst'
+description:      'Statistician, researcher, data analyst/scientist'
 url:              https://LouisRaynal.github.io
 githuburl:        https://github.com/LouisRaynal
 linkedinurl:      https://www.linkedin.com/in/louisraynal
+researchgateurl:  https://www.researchgate.net/profile/Louis-Raynal
 email:            louis.raynal.pritchard@gmail.com
-baseurl:          '/LouisRaynal'
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -22,7 +23,7 @@ author:
   name:           'Louis Raynal'
   url:            https://LouisRaynal.github.io
 
-paginate:         5
+#paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 

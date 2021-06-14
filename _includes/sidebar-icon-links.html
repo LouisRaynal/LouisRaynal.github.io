@@ -68,14 +68,24 @@
       {% include svg/search.svg %}
     </a>
   {% endif %}
-  
+ 
+  {% if site.researchgateurl %}
+     <a id="researchgate-link"
+        class="icon" title="{{ site.researchgateurl }}" aria-label="{{ site.researchgateurl }}"
+        href="{{ site.researchgateurl }}">
+        {% include svg/researchgate.svg %}
+      </a>
+  {% endif %}
+ 
   {% if site.email %}
      <a id="email"
         class="icon" title="{{ site.email }}" aria-label="{{ site.email }}"
-        href="mailto: {{ site.email }}">
+        href="mailto:{{ site.email }}">
         {% include svg/email.svg %}
       </a>
   {% endif %}
+  
+  
 
   {% include custom-icon-links.html %}
 </nav>

@@ -35,7 +35,7 @@ body {
 #sidebar {
   flex: 0 0 auto;
   padding: $section-spacing;
-
+  
   .site-title {
     font-family: 'Abril Fatface', serif;
     font-size: $large-font-size;
@@ -110,7 +110,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 3.25rem;
+    font-size: 2.5rem;
   }
 
   // Show secondary nav content + lead
@@ -128,7 +128,22 @@ body {
   > *:last-child {
     margin-bottom: 0.5rem;
   }
+  
 }
+
+@media (min-width: $large-breakpoint) {  
+  .photo_profile {
+    max-width: 50%;
+	//margin: auto;
+  }
+}
+@media (max-width: $large-breakpoint) {
+  .photo_profile {
+    max-width: 0%;
+	//margin: auto;
+  }
+}
+
 
 /* -----------------------------------------------------------
   Tablet / Desktop view
@@ -181,7 +196,7 @@ body {
     }
 
     .site-title {
-      font-size: 3.25rem;
+      font-size: 2.5rem;
       .back-arrow { display: none; }
     }
 
@@ -234,6 +249,7 @@ body {
       padding: 0;
     }
   }
+
 }
 
 /* -----------------------------------------------------------

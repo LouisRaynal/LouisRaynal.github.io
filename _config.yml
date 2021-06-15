@@ -18,6 +18,7 @@ baseurl:          ''
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 photo:    		  'assets/photo/LouisRaynal.jpg'
+cv_eng:    		  'assets/cv/cv_Louis_Raynal_English.pdf'
 
 author:
   name:           'Louis Raynal'

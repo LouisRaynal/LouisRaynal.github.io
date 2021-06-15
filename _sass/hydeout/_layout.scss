@@ -245,7 +245,7 @@ body {
     }
 
     > * {
-      max-width: 38rem;
+      max-width: $corpus-width;
       padding: 0;
     }
   }

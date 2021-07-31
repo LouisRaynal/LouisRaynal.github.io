@@ -23,7 +23,7 @@ cv_fr:    		  'assets/cv/cv_Louis_Raynal_French.pdf'
 
 author:
   name:           'Louis Raynal'
-  url:            https://LouisRaynal.github.io
+  url:            https://louisraynal.github.io
 
 #paginate:         5
 # paginate_path:    '/page:num'

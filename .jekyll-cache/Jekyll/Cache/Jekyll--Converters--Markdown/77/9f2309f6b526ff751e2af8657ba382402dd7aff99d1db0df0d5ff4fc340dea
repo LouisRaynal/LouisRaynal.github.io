@@ -1,0 +1,77 @@
+I"�<p>Below are my research contributions.</p>
+
+<h3 id="packages">Packages</h3>
+<ul>
+  <li><tt>cost_based_selection</tt> - Cost-based feature selection methods for network classification (in <tt>Python</tt>)</li>
+  <li><tt>abcrf</tt> - Approximate Bayesian Computation via Random Forests (in <tt>R</tt> with a pinch of C++)</li>
+</ul>
+
+<h3 id="phd-thesis-manuscript">Ph.D. thesis manuscript</h3>
+<ul>
+  <li><ins>Raynal L.</ins>
+(2019)
+<strong>Bayesian Statistical Inference for Intractable Likelihood Models</strong>,
+<em>University of Montpellier</em></li>
+</ul>
+
+<h3 id="publications">Publications</h3>
+<ul>
+  <li>
+    <p><ins>Raynal L.</ins>, Onnela J.-P. 
+(2021)
+<strong>Uncovering the mechanisms behind contact network formation through observation of infection networks</strong>,
+<em>in preparation</em></p>
+  </li>
+  <li>
+    <p><ins>Raynal L.</ins>, Onnela J.-P. 
+(2021)
+<strong>Summary Statistic Selection for Classification of Networks with Approximate Bayesian Computation</strong>,
+<em>in revision</em></p>
+  </li>
+  <li>
+    <p><ins>Raynal L.</ins>, Marin J.-M., Cleynen A.
+(2021)
+<strong>Local Tree Methods for Classification</strong>,
+<em>in revision</em></p>
+  </li>
+  <li>
+    <p>Le T.-M., <ins>Raynal L.</ins>, Talbot O., Hambridge H., Drovandi C., Mira A., Mengersen K., Onnela J.-P.
+(2021)
+<strong>Policies for Easing COVID-19 Pandemic Travel Restrictions</strong>,
+<em>submitted to Proceedings of the National Academy of Sciences</em></p>
+  </li>
+  <li>
+    <p>Collin F.-D., Durif G., <ins>Raynal L.</ins>, Lombaert E., Gautier M., Vitalis R., Marin J.-M., Estoup A. 
+(2021)
+<strong>Extending approximate Bayesian computation with supervised machine learning to infer demographic history from genetic polymorphisms using DIYABC Random Forest Molecular Ecology Resources</strong>,
+<em>Molecular Ecology Resources</em></p>
+  </li>
+  <li>
+    <p><ins>Raynal L.</ins>, Chen S., Mira A., Onnela J.-P. 
+(2021)
+<strong>Scalable Approximate Bayesian Computation for Growing Network Models via Extrapolated and Sampled Summaries</strong>,
+<em>Bayesian Analysis Advance Publication</em>,
+1-28</p>
+  </li>
+  <li>
+    <p>Chapuis M.-P., <ins>Raynal L.</ins>, Plantamp C., Blodin L., Marin J.-M., Estoup A.
+(2020)
+<strong>A young age of subspecific divergence in the desert locust Schistocerca gregaria</strong>,
+<em>Molecular Ecology</em>, 29(23), 4542-4558</p>
+  </li>
+  <li>
+    <p><ins>Raynal L.</ins>, Marin J.-M., Pudlo P., Ribatet M., Robert C. P., Estoup A. 
+(2019)
+<strong>ABC Random Forests for Bayesian Parameter Inference</strong>, 
+<em>Bioinformatics</em>, 
+35(10), 1720–1728</p>
+  </li>
+  <li>
+    <p>Estoup A., <ins>Raynal L.</ins>, Verdu P., Marin J.-M. 
+(2018)
+<strong>Model choice using Approximate Bayesian Computation and Random Forests: analyses based on model grouping to make inferences about the genetic history of Pygmy human populations</strong>,
+<em>Journal de la Société Française de Statistique</em>,
+159(3), 167–190</p>
+  </li>
+</ul>
+:ET

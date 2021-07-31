@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About me
 sidebar_sort_order: 1
 ---
 
@@ -12,13 +13,16 @@ supervised by [Jean-Michel Marin](https://imag.umontpellier.fr/~marin/).
 Check out the manuscript: [Bayesian statistical inference for intractable likelihood models](http://www.theses.fr/2019MONTS035)!
 
 Apart from strong programming skills, I have built knowledge and experience in:
-* likehood-free / computational methods
-* machine learning algorithms
-* Bayesian statistics
-* feature selection strategies
-* population genetics applications
-* network science
+* likelihood-free/computational methods;
+* machine learning algorithms;
+* Bayesian statistics;
+* feature selection strategies;
+* population genetics applications;
+* network science.
 
 #### <span style="color:#BA1A1A">Open to job opportunities in France:</span>
-I am seeking for new exciting opportunities!<br/>
-I would like to put my skills to good use in an interdisciplinary team, to help with domains such as method development, package conception, data analysis and visualization...
+I am seeking new exciting opportunities!<br/>
+I would like to put my skills to good use among an interdisciplinary team, to carry out applied projects in a stimulating environment! <br/>
+Do not hesitate to contact me at 
+<a href="mailto:louis.raynal.pritchard@gmail.com">louis.raynal.pritchard@gmail.com</a> or 
+<a href="mailto:llcraynal@hsph.harvard.edu">llcraynal@hsph.harvard.edu</a>.

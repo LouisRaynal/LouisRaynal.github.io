@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Louis Raynal
 tagline:          'Statistican'
 description:      'Statistician, researcher, data analyst/scientist'
-url:              https://louisraynal.github.io
+url:              https://LouisRaynal.github.io
 githuburl:        https://github.com/LouisRaynal
 linkedinurl:      https://www.linkedin.com/in/louisraynal
 researchgateurl:  https://www.researchgate.net/profile/Louis-Raynal
@@ -23,7 +23,7 @@ cv_fr:    		  'assets/cv/cv_Louis_Raynal_French.pdf'
 
 author:
   name:           'Louis Raynal'
-  url:            https://louisraynal.github.io
+  url:            https://LouisRaynal.github.io
 
 #paginate:         5
 # paginate_path:    '/page:num'
